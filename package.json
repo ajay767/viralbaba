@@ -1,0 +1,22 @@
+{
+  "name": "viralbaba-ver-2.0",
+  "version": "2.0.0",
+  "description": "viralbaba version 2",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajay767/viralbaba-v.2.0.git"
+  },
+  "author": "Ajay Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajay767/viralbaba-v.2.0/issues"
+  },
+  "homepage": "https://github.com/ajay767/viralbaba-v.2.0#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
